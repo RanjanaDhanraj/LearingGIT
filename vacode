@@ -1,1 +1,7 @@
 A new file via vS code iS created
+git clone "link of repoitory"
+cd repoitoryname
+git StatuS
+git add filename
+git commit =m"mSg"
+git puSh origin main
