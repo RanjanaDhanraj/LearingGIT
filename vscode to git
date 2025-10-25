@@ -6,3 +6,4 @@ git StatuS
 git add filename
 git commit =m"mSg"
 git puSh origin main
+git pull
